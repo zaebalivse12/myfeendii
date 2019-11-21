@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC “-//W3C//DTD HTML 4.0 Transitional//EN”>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=cp1251" />
+<title>FEND | NEW COLLECTION</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="Container">
+  <div id="header">
+    <ul>
+      <li><a href="#">Home Page</a></li>
+      <li><a href="#">Our Services</a></li>
+      <li><a href="#">Gallery</a></li>
+      <li><a href="#">Site Map</a></li>
+      <li><a href="#">News</a></li>
+      <li><a href="#">FAQ</a></li>
+    </ul>
+  </div>
+  
+  <div id="right">
+    <div class="post">
+			<h1>FENDI</h1>
+			<p class="descr"><small>Наш бренд Fendi выпускает капсульную коллекцию «Fendi Prints On», созданную в сотрудничестве с рэпершей <a href="#">Ники Минаж.</a></small></p> 		
+			<p>В коллекцию вошли вещи с логотипами и блестящими текстурами, в том числе двусторонние дутые куртки, нейлоновые парки, бомберы и платья с пайетками.</p>
+			    <p>Отсылки к культуре хип-хопа можно увидеть в серебристом тренировочном костюме, футболках и свитшотах. Также в капсуле есть боди, купальники и кроссовки на плафторме.<br />
+                <br />
+			     Кроме того, Ники Минаж выпускает свою версию сумок:<br />
+			      -  Peekaboo.<br />
+			      - Baguette.<br />
+			      -  Kan U.<br />
+			   
+ 			    
+	</div>
+		<div class="post">
+			<h2>Примечательно:</h2>
+			<p>Коллекция FENDI Prints On уже доступна на сайте fendi.com</p>
+		  <ul>
+					<li><a href="https://www.fendi.com/bg/sneakers-fuchsia-nicki-minaj-sneakers/p-JMR318A9S3F0G0P">С 16 октября она появится в 52 бутиках Fendi по всему миру;</a></li>
+					<li><a href="https://www.fendi.com/bg/sneakers-fuchsia-nicki-minaj-sneakers/p-JMR318A9S3F0G0P">Коллекция включает в себя 127 предметов одежды: обувь, купальные костюмы и сумки.  Дизайн также содержит культовый двойной логотип F;</a></li>
+					<li><a href="https://www.fendi.com/bg/sneakers-fuchsia-nicki-minaj-sneakers/p-JMR318A9S3F0G0P">Линейка представлена ??множеством различных текстур и тканей, в том числе блестками, вышивкой, нейлоновой органзой, овчиной, норкой, кожей и многим другим, а серебристый и ярко-розовый составляют большую часть своей цветовой палитры;</a></li>
+					<li><a href="https://www.fendi.com/bg/sneakers-fuchsia-nicki-minaj-sneakers/p-JMR318A9S3F0G0P">Дизайн также содержит культовый двойной логотип F.</a></li>
+		  </ul>
+		</div>		
+  </div>
+  <div id="left">    	
+		<div id="updates" class="boxed">
+			<h2 class="title">Новости нашей фирмы </h2>
+			<div class="content2">
+				<ul>
+					<li>
+						<h3>20 СЕНТЯБРЯ 2019</h3>
+						<p><a href="https://vogue.ua/article/fashion/brend/luka-guadanino-sozdal-print-dlya-novoy-kollekciy-fendi.html">Линейка представлена ??множеством различных текстур и тканей, в том числе блестками, вышивкой, нейлоновой органзой, овчиной, норкой, кожей и многим другим, а серебристый и ярко-розовый составляют большую часть своей цветовой палитры. . &#8230;</a></p>
+					</li>
+					<li>
+						<h3>5 ИЮЛЯ 2019</h3>
+						<p><a href="https://vogue.ua/article/fashion/brend/fendi-provedut-pokaz-v-rime.html">Кутюрный показ Fendi развернулся на фоне кинематографического величия римского Колизея – на вершине Храма Венеры и Ромы. Бренд решил представить новую коллекцию в Риме неспроста – город много значил для Карла Лагерфельда, который присоединился к компании 54 года назад и оставался в ней до своей смерти. Дизайнер часто хвастался, что за это время посещал Вечный город более 800 раз.;</a></p>
+					</li>
+					<li>
+						<h3>27 ИЮНЯ 2019</h3>
+						<p><a href="https://vogue.ua/article/fashion/brend/nedelya-mody-v-milane-novye-kollekcii-fendi-max-mara-i-giorgio-armani.html">Fendi пригласила подруг Аманду Сейфрид и Эмму Робертс сняться в новой кампании #BaguetteFriendsForever.
+
+ &#8230;</a></p>
+					</li>
+					<li>
+						<h3>17 ИЮНЯ 2019</h3>
+						<p><a href="https://vogue.ua/article/fashion/aksessuary/vozvrashchenie-legendy-fendi-perevypuskayut-sumku-baguette.html"> Новая мужская коллекция итальянского лейбла посвящена отдыху в саду, а специальный принт для нее создал режиссер Лука Гуаданьино.
+
+ </a></p>
+					</li>
+					<li>
+						<h3>18 АПРЕЛЯ 2019</h3>
+						<p><a href="https://vogue.ua/article/fashion/aksessuary/glavnye-sumki-sezona-vesna-leto-2019.html">Стала известна дата проведения кутюрного шоу Fendi. Итальнский модный Дом проведет показ новой коллекции 4 июля в Риме в память о покойном Карле Лагерфельде, который занимал пост креативного директора бренда на протяжении 54 лет.;</a></p>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+ </div>
+  <div id="footer">
+    <p>FENDI; 2010 </a></p>
+	
+</body>
+</html>
